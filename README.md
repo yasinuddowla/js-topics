@@ -82,4 +82,4 @@ These are the topics one should learn to excel in JS development.
    - Implementing what you've learned in small projects
    - Practicing problem-solving skills
 
-Remember, learning JavaScript involves continuous practice and application. Working on projects and solving problems is crucial to reinforcing your understanding. Start with the basics and gradually move to more complex topics as you progress. Good luck with your JavaScript learning journey!
+Note: These are my personal recommendations. Learning JavaScript involves continuous practice and application. Working on projects and solving problems is crucial to reinforcing your understanding. Start with the basics and gradually move to more complex topics as you progress.
