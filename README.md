@@ -1,4 +1,4 @@
-These are the following things one should learn to excel in JS development.
+These are the topics one should learn to excel in JS development.
 
 1. **Introduction to JavaScript**
    - What is JavaScript?
